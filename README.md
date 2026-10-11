@@ -1,14 +1,18 @@
-# Welcome to your Lovable project
+# Poke Team Pal
+
+Vorrei creare un semplice app di build pokemon team utilizzando le api disponibili su PokéAPI per la selezione di pokemon e mosse
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://poke-team-pal.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/3e60636e-a79c-498f-9236-77dbd2e92493).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +24,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
